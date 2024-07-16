@@ -1,0 +1,81 @@
+
+/* media adjustment for screens max width 375px */
+
+@media screen and (width:375px) {
+     .logo-p1{
+          margin-top: -160px;
+     }
+     .thumbnail{
+          visibility:hidden;
+     }
+     .arrows{
+          visibility: hidden;
+     }
+}
+
+
+/* media adjustment for screens max width 450px */
+
+
+    @media screen and (max-width:450px) {
+     .logo-p1 {
+          margin-top: -190px;
+          margin-left: -1%;
+              }
+     .logo {
+          margin-left: 10%;
+          margin-top: 0px;
+               }
+     .text-container {
+          margin-left: 10%;
+          width: 90%;
+          right: 0;
+          margin-right: 0;
+     }
+     .image-container {
+          visibility:hidden;
+     }
+         
+     .text-container-2{
+          width:60%;
+          margin-left:10%;
+          margin-top:20%;
+          position:sticky;
+          
+     } 
+     .arrows {
+          top:90%;
+     }
+
+     .body{position:relative;
+      margin:0;}
+
+     .phone-thumbnail {
+     left: 60%;
+     }
+         
+     iframe {
+     width:350px;
+     height:150px;
+     }
+
+     #lp-logo{
+     visibility: hidden;
+         }
+         
+     .video-container{
+     position:relative;
+      width: 350px; 
+     height: 150px;
+     left: 10%;
+     margin-top: 0;         
+         }
+    }
+
+/* media adjustment for screens max width 678px */
+
+ @media screen and (max-width: 678px) {
+     .carousel .list .item .content {
+         padding-right: 0;
+     }
+ }
