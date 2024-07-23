@@ -1,6 +1,6 @@
 ## Link to website:
-(https://rbtttttt.github.io/Noah-bar/)
-(https://github.com/rbtttttt/Noah-bar)
+Website: (https://rbtttttt.github.io/Noah-bar/)
+Repo: (https://github.com/rbtttttt/Noah-bar)
 
 # Noah's Bar - Markdown
 
