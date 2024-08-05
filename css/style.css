@@ -133,7 +133,7 @@
  #cocktails:before {
     content: "";
      position: absolute;
-     width: 57px;
+     width: 50px;
      height: 3px;
      bottom: -2%;
      background: #FF9494;
@@ -237,14 +237,6 @@
 
 
  /* arrows next / prev */
-
- #down {
-    top: auto;
-    bottom: 300%;
-    right: 170%;
-    position: absolute;
-    background-color: #f1683a;
- }
 
 
  .arrows {
