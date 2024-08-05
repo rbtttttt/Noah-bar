@@ -11,6 +11,15 @@ Repo: (https://github.com/rbtttttt/Noah-bar)
 
  The website will be multiple pages in one, allowing the user to scroll from the top to the bottom creating an experience like reading a menu from a cocktail bar.
 
+ ### Color palettes:
+ The color palette used for the webpage:
+ - #f1683a
+ - #eee
+ - #black
+ The #f1683a orange color will be mainly used for headers and buzz words.
+ 
+ 
+
  ### Main Page:
  Carousel system will be used, each slide will represent a specific cocktail from a seasonal collection. (carousel.js , carousel.css)
 
@@ -24,11 +33,7 @@ Repo: (https://github.com/rbtttttt/Noah-bar)
  - See more buttons available on each slide of Carousel which will take user to specific cocktail page.
 
 ### Styling:
- The color palette used for the webpage:
- - #f1683a
- - #eee
- - #black
- The #f1683a orange color will be mainly used for headers and buzz words.
+ 
  The white #eee will be for text
  Background will be primarily black, excluding image backgrounds.
  Font will be consistantly Poppins, except for logo.
