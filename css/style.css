@@ -9,6 +9,7 @@
      color: #eee;
      font-family: Poppins;
      font-size: 12px;
+     padding-top: 5px;
  }
 
  a {
@@ -28,8 +29,9 @@
      height: 50px;
      display: flex;
      align-items: center;
-     position: relative;
+     position: fixed;
      z-index: 100;
+     margin-left: 10px;
  }
 
  header a {
@@ -85,12 +87,15 @@
      font-size: 3em;
      text-align: center;
        white-space: nowrap;
-       margin-left: 50%;
-       position: absolute;
-          margin-top: -200px;
-     
+       position: fixed;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
 
 
 /* Animation for Nav links */
