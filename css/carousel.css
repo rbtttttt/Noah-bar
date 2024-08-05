@@ -4,9 +4,10 @@
  .carousel {
      height: 100vh;
      margin-top: -50px;
-     width: 100vw;
+     width: 100%;
      overflow: hidden;
      position: relative;
+     margin-left: -5%;
  }
 
  .carousel .list .item-1 {
