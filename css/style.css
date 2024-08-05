@@ -77,6 +77,17 @@
      margin-left: 50%;
 }
 
+.our-cocktails {
+    font-family: "Playwrite NG Modern", cursive;
+    font-weight: 218;
+    font-style: normal;
+   font-size: 3em;
+   text-align: center;
+     white-space: nowrap;
+     margin-top : 20%;
+     margin-left: 30%;
+
+}
 
 
   
@@ -227,11 +238,19 @@
 
  /* arrows next / prev */
 
+ #down {
+    top: auto;
+    bottom: 300%;
+    right: 170%;
+    position: absolute;
+    background-color: #f1683a;
+ }
+
 
  .arrows {
      position: absolute;
      top: 80%;
-     right: 52%;
+     right: 45%;
      z-index: 100;
      width: 300px;
      max-width: 30%;
@@ -330,7 +349,6 @@ background-color:black;
        padding: 0;
           margin-top: 10%;
           right: 5%;
-          margin-right: 10%;
           margin-left: 40%;
      }
 
