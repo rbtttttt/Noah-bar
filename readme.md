@@ -12,12 +12,20 @@ Repo: (https://github.com/rbtttttt/Noah-bar)
  The website will be multiple pages in one, allowing the user to scroll from the top to the bottom creating an experience like reading a menu from a cocktail bar.
 
  ### User Stories:
-1. When arriving at the website, the visitor will be greeted with a carousel, showing each cocktail.
-2. The user can click "See more" to visit the cocktail they like.
-3. While on the cocktail page, the user will have option to move to next or previous cocktail.
-4. Fixed navigation bar will allow visitors to go to any specific page that they choose.
+Home Page:
+- Click next & prev buttons to view cocktails in carousel.
+- Click see more to see specific cocktail.
+Cocktail Pages:
+- Click next & prev buttons to visit next cocktail page.
+About Page:
+- Click video to watch short introduction video.
+- Fill in form for contact details.
+- Click google maps to visit google maps location of bar.
+Nav Bar:
+- Click home to visit home page
+- Click specific cocktail to visit cocktail page
+- Click About to visit info section.
 
- 
 
  ### Color palettes:
  The color palette used for the webpage:
