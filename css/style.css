@@ -281,10 +281,12 @@ html {
     display: flex;
     gap: 10px;
     align-items: center;
+    font-size: 30px;
+    text-align: center;
  }
   
    
-    .arrows-2 button {
+    .arrows-2 a {
         width: 40px;
         height: 40px;
         border-radius: 50%;
@@ -296,11 +298,12 @@ html {
         transition: .5s;
     }
    
-    .arrows-2 button:hover {
+    .arrows-2 a:hover {
         background-color: #f1683a;
         color: #000;
 
     }
+
 /*Containers */ 
 
 .container {
