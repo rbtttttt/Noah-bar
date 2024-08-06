@@ -296,6 +296,8 @@ html {
         transition: .5s;
     }
    
+    .arrows-2 button:hover {
+        background-color: #fff;
         color: #000;
 
     }
