@@ -26,6 +26,30 @@ Nav Bar:
 - Click specific cocktail to visit cocktail page
 - Click About to visit info section.
 
+### Wire Frames
+ #### Wireframe for small and medium width devices
+![Small Wireframe](./images/Wireframes/wire_frame_mobile.JPG)
+ #### Wireframe for large width devices
+![Large Wireframe](./images/Wireframes/wireframe_large.JPG)
+
+### Final Screenshots
+  #### Home Page
+  - Small and Medium Screens
+![Small Home Page](./images/screenshots/small_home.JPG)
+  - Large screens
+![Large Home Page](./images/screenshots/large_home.JPG)
+
+#### About Page
+  - Small and Medium Screens
+![Small About Page](./images/screenshots/small_about.JPG)
+  - Large screens
+![Large Aboout Page](./images/screenshots/large_about.JPG)
+
+#### Cocktail Page
+  - Small and Medium Screens
+![Small Cocktail Page](./images/screenshots/small_cocktail.JPG)
+  - Large screens
+![Large Cocktail Page](./images/screenshots/large_cocktail.JPG)
 
  ### Color palettes:
  The color palette used for the webpage:
@@ -35,12 +59,14 @@ Nav Bar:
  The #f1683a orange color will be mainly used for headers and buzz words.
  
  
+## Development Process
 
  ### Main Page:
- Carousel system will be used, each slide will represent a specific cocktail from a seasonal collection. (carousel.js , carousel.css)
+ Carousel system will be used, each slide will represent a specific cocktail from a seasonal collection using JS (carousel.js , carousel.css)
 
  ### Logo:
- - Logo will be fixed in the top-middle of the page. (.logo .logo-p1)
+ - Logo will be fixed in the top-middle of the page.
+  (.logo .logo-p1)
    
 ### Navigation:
  - For both mobile and widescreen there will be NAV for Home and About Us section (.nav , header)
@@ -139,14 +165,17 @@ About page will be the last page, this contains information about the bar, owner
 - A timer has been created for orange timer above Nav.
 - Function with affect to prepend and append carousel slide
 
-## Final Overview:
-### Overview:
-At the start of this project I wanted to create something much more simple, however I wanted to challenge myself to create something impressive to challenge myself for future projects, I explored more interactive ways to create a website and recreated a carousel effect for my website, I chose this effect because the images I had to work with looks quite nice in this carousel setup with a black background creating nice vibrant feel. I wanted to have a website that is multiple pages but in one, as I want the audience to view it from top to bottom like a menu for a restaurant. 
-### Improvements for the future:
-- more interactivity with Javascript
-- possibly usage of a module / library for better coding experieence
-- be more organize with CSS, maybe use more classes to group code
-- more navigation for the website
+## Error testing and deployment
+
+### HTML Error testing
+  #### HTML errors
+![Error 1](./images/Errors/error1.JPG)
+![Error 2](./images/Errors/error2.JPG)
+  #### CSS errors
+![Error 3](./images/Errors/css_error.JPG)
+
+- All bug fixes has been documented in commits on GitHub.
+
 
 
 ## Sources & Resources used:
