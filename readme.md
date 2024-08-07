@@ -34,21 +34,16 @@ Nav Bar:
 
 ## Final Screenshots
   ### Home Page
-  - Small and Medium Screens
+  
 ![Small Home Page](./images/screenshots/small_home.JPG)
-  - Large screens
 ![Large Home Page](./images/screenshots/large_home.JPG)
 
 ### About Page
-  - Small and Medium Screens
 ![Small About Page](./images/screenshots/small_about.JPG)
-  - Large screens
 ![Large Aboout Page](./images/screenshots/large_about.JPG)
 
 ### Cocktail Page
-  - Small and Medium Screens
 ![Small Cocktail Page](./images/screenshots/small_cocktail.JPG)
-  - Large screens
 ![Large Cocktail Page](./images/screenshots/large_cocktail.JPG)
 
  ### Color palettes:
