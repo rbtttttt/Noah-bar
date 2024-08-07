@@ -11,6 +11,9 @@
      .arrows{
           visibility: hidden;
      }
+     .arrows-2 {
+          margin-top: 185%;
+      }   
 }
 
 
@@ -71,7 +74,12 @@
      left: 10%;
      margin-top: 0;         
          }
+      
+      .arrows-2 {
+          margin-top: 185%;
+      }   
     }
+    
 
 /* media adjustment for screens max width 678px */
 
