@@ -11,7 +11,7 @@ Repo: (https://github.com/rbtttttt/Noah-bar)
 
  The website will be multiple pages in one, allowing the user to scroll from the top to the bottom creating an experience like reading a menu from a cocktail bar.
 
- ### User Stories:
+ ## User Stories:
 Home Page:
 - Click next & prev buttons to view cocktails in carousel.
 - Click see more to see specific cocktail.
@@ -26,26 +26,26 @@ Nav Bar:
 - Click specific cocktail to visit cocktail page
 - Click About to visit info section.
 
-### Wire Frames
+## Wire Frames
  #### Wireframe for small and medium width devices
 ![Small Wireframe](./images/Wireframes/wire_frame_mobile.JPG)
  #### Wireframe for large width devices
 ![Large Wireframe](./images/Wireframes/wireframe_large.JPG)
 
-### Final Screenshots
-  #### Home Page
+## Final Screenshots
+  ### Home Page
   - Small and Medium Screens
 ![Small Home Page](./images/screenshots/small_home.JPG)
   - Large screens
 ![Large Home Page](./images/screenshots/large_home.JPG)
 
-#### About Page
+### About Page
   - Small and Medium Screens
 ![Small About Page](./images/screenshots/small_about.JPG)
   - Large screens
 ![Large Aboout Page](./images/screenshots/large_about.JPG)
 
-#### Cocktail Page
+### Cocktail Page
   - Small and Medium Screens
 ![Small Cocktail Page](./images/screenshots/small_cocktail.JPG)
   - Large screens
@@ -59,7 +59,7 @@ Nav Bar:
  The #f1683a orange color will be mainly used for headers and buzz words.
  
  
-## Development Process
+# Development Process
 
  ### Main Page:
  Carousel system will be used, each slide will represent a specific cocktail from a seasonal collection using JS (carousel.js , carousel.css)
@@ -86,7 +86,7 @@ Nav Bar:
 ## (1) Home page - Carousel System 
   A carousel system will be used featuring a different cocktail on each slide, on each slide the background will change into a picture of the cocktail as well as a short description. (.carousel)
   
-## Layout:
+### Layout:
  ### Background:
  - Background will change during each slide, the image will be of the specific cocktail assigned to that slide.
  - a orange line/ timer will be on top of the page as a timer to indicate when the next slide will change (.time)
@@ -102,10 +102,10 @@ Nav Bar:
 ### Thumbnail:
 - There will be small thumbnails of the drinks at the bottom of the carousel (.thumbnail)
 
-## (2) Cocktail Pages
+### (2) Cocktail Pages
 A standard cocktail page will be used containing two different containers (.image-container , .text-container)
 
-## Layout:
+### Layout:
 
 ### Background:
 - Black background will be used
