@@ -171,7 +171,9 @@ About page will be the last page, this contains information about the bar, owner
 
 - All bug fixes has been documented in commits on GitHub.
 
-
+#### Final comments:
+At the start of the project I did not realise that I had to start by creating a GitHub repository, so I did everything externally before updating to github,
+therefore my commits are quite low, However I understand how it works now and will improve for future projects.
 
 ## Sources & Resources used:
 ### Images for cocktails: https://www.facebook.com/Mr.MonkeyX (permission given)
