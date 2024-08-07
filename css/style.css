@@ -98,7 +98,7 @@ html {
 
 /* Animation for Nav links */
 
- #home:before {
+ .home:before {
      content: "";
      position: absolute;
      width: 40px;
@@ -111,11 +111,11 @@ html {
      bottom: 10px;
  }
 
- #home:hover:before {
+ .home:hover:before {
      transform: scaleX(1);
  }
 
- #info:before {
+ .info:before {
      content: "";
      position: absolute;
      width: 57px;
@@ -128,12 +128,12 @@ html {
      bottom: 10px;
  }
 
- #info:hover:before {
+ .info:hover:before {
      transform: scaleX(1);
 
  }
 
- #cocktails:before {
+ .cocktails:before {
     content: "";
      position: absolute;
      width: 50px;
@@ -146,7 +146,7 @@ html {
      bottom: 10px;
 }
 
-#cocktails:hover:before {
+.cocktails:hover:before {
     transform: scaleX(1);
 }
 
